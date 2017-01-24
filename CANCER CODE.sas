@@ -1,9 +1,3 @@
-/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/**/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
-/*/*                                                           */*/
-/* THIS IS COMPLETELY COPIED FROM THE ADDICTS CODE POSTED ONLINE */
-/*/*                                                          */*/
-/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/**/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/;
-
 proc format;
 invalue bmtnum 'NO NODE' = 0  'SINGLE NODE <3CM' = 1  
 'NODE 3+CM' = 2 'MULTIPLE NODES'=3;
