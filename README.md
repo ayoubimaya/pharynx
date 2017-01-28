@@ -2,7 +2,7 @@
 
 <h1>Background</h1>
 <p> It is well known that tobacco and alcohol can have adverse effects on human health. 
-	It is also well known that 90% of people with oral cancer used tobacco products, and 75-80% of those patients also drank alcohol. 
+	It is also well known that 90% of people with <a href="https://en.wikipedia.org/wiki/Oral_cancer">oral cancer</a> used tobacco products, and 75-80% of those patients also drank alcohol. 
 	According to the <a href="https://www.cdc.gov/">CDC</a>, the survival rate is approximately 50%. 
 	</p>
 
@@ -29,7 +29,7 @@ I also tried to introduce other predictors as well as interactions, but it appea
 <h2>Methods (SAS)</h2>
     <p>I collected data starting in January 1968 and continued until December 1972. 
 	To be included in the study, I looked at patient eligibility criteria, and screened for extreme cases. 
-	The study consists of 195 patients diagnosed with oral cancer in varying stages of the cancer.
+	The study consists of 195 patients diagnosed with <a href="https://en.wikipedia.org/wiki/Oral_cancer">oral cancer</a> in varying stages of the cancer.
 	The data was collected at 6 large cancer research institutions across the United States. 
 	The patients were randomly assigned to either the standard treatment, radiation therapy, or the test treatment, radiation coupled with chemotherapy. 
 	Approximately 27% of participants were censored due to the patient moving or transferring to another institution that did not participate in the study.
