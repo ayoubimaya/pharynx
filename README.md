@@ -8,9 +8,9 @@
 
 <h1>About Pharynx Analysis (R)</h1>
 <p>The purpose of the study done in R is to assess what variables affect the survival rate of carcinoma of the oropharynx. 
-Oral cancer is hard to discover or diagnose, meaning that late stage discovery is more common. 
+<a href="https://en.wikipedia.org/wiki/Oral_cancer">Oral cancer</a> is hard to discover or diagnose, meaning that late stage discovery is more common. 
 Due to late stage discovery, this cancer has often metastasized to another location thus reducing the time duration until death. 
-A survival analysis on oral cancer helps to answer what characteristics increase or decrease the probability of survival, what the proportion of the population that will survive past a given time, and what will be the rate at which those who survive die or fail.</p>
+A survival analysis on <a href="https://en.wikipedia.org/wiki/Oral_cancer">oral cancer</a> helps to answer what characteristics increase or decrease the probability of survival, what the proportion of the population that will survive past a given time, and what will be the rate at which those who survive die or fail.</p>
 
 <h2>Methods (R)</h2>
 <p>I chose to analyze the data using <a href="https://en.wikipedia.org/wiki/Proportional_hazards_model">Cox Proportional Hazards model</a> due to its advantage of fitting survival models without specifying the underlying hazard function. 
