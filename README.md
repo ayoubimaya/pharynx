@@ -2,13 +2,13 @@
 
 <h1>Background</h1>
 <p> It is well known that tobacco and alcohol can have adverse effects on human health. 
-	It is also well known that 90% of people with <a href="https://en.wikipedia.org/wiki/Oral_cancer">oral cancer</a> used tobacco products, and 75-80% of those patients also drank alcohol. 
+	About 90% of people with <a href="https://en.wikipedia.org/wiki/Oral_cancer">oral cancer</a> used tobacco products, and 75-80% of those patients also consumed alcohol. 
 	According to the <a href="https://www.cdc.gov/">CDC</a>, the survival rate is approximately 50%. 
 	</p>
 
 <h1>About Pharynx Analysis (R)</h1>
 <p>The purpose of the study done in R is to assess what variables affect the survival rate of carcinoma of the oropharynx. 
-<a href="https://en.wikipedia.org/wiki/Oral_cancer">Oral cancer</a> is hard to discover or diagnose, meaning that late stage discovery is more common. 
+<a href="https://en.wikipedia.org/wiki/Oral_cancer">Oral cancer</a> is hard to discover and diagnose, meaning that late stage discovery is more common. 
 Due to late stage discovery, this cancer has often metastasized to another location thus reducing the time duration until death. 
 A survival analysis on <a href="https://en.wikipedia.org/wiki/Oral_cancer">oral cancer</a> helps to answer what characteristics increase or decrease the probability of survival, what the proportion of the population that will survive past a given time, and what will be the rate at which those who survive die or fail.</p>
 
